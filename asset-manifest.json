@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b84132f.css",
+    "main.js": "/static/js/main.0d457d55.js",
+    "static/js/787.877e6212.chunk.js": "/static/js/787.877e6212.chunk.js",
+    "static/media/ReleasePrint.png": "/static/media/ReleasePrint.442f08829b51f1f9cdc9.png",
+    "static/media/LoginScreen.png": "/static/media/LoginScreen.9fc2aac363a80abf9e08.png",
+    "static/media/ScanningPaper.png": "/static/media/ScanningPaper.da67e6ee0441a77073cd.png",
+    "static/media/PlacingDoc.png": "/static/media/PlacingDoc.037cf8001203858149b3.png",
+    "static/media/OneCardStation.png": "/static/media/OneCardStation.0c37db2418e7fc0ab197.png",
+    "static/media/bg.jpg": "/static/media/bg.be20b5824fcdfa11b74a.jpg",
+    "static/media/SelectPrinter.png": "/static/media/SelectPrinter.1910441bce9196252b66.png",
+    "static/media/PrintingMenu.png": "/static/media/PrintingMenu.b5dd05622b7ee4964a1a.png",
+    "static/media/seneca-logo.svg": "/static/media/seneca-logo.1caab349715a75cd1abeb5baed05d46e.svg",
+    "index.html": "/index.html",
+    "main.4b84132f.css.map": "/static/css/main.4b84132f.css.map",
+    "main.0d457d55.js.map": "/static/js/main.0d457d55.js.map",
+    "787.877e6212.chunk.js.map": "/static/js/787.877e6212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b84132f.css",
+    "static/js/main.0d457d55.js"
+  ]
+}
